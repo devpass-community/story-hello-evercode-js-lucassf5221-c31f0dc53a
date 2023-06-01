@@ -1,6 +1,6 @@
 function hello(str) {
   // Add your solution here!
-  return `Hello, ${str}`
+  return `Hello, ${name}`
 }
 
 module.exports = hello
